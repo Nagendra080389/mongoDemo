@@ -1,4 +1,5 @@
-package com.mongo;
+package com.mongo.service;
+import com.mongo.domain.Student;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 /**
